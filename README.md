@@ -1,5 +1,2 @@
-# tflite_audio_example
+# I'm All Ears App
 
-Demonstrates how to use the tflite_audio plugin.
-
-![](audio_recognition_example.jpg)
