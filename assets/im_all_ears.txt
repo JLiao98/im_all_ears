@@ -1,0 +1,8 @@
+0 Background Noise
+1 Bell Ring
+2 Cheering
+3 Door Knock
+4 Faucet Running
+5 Hey Jian
+6 Laughing
+7 Smoke Alarm
